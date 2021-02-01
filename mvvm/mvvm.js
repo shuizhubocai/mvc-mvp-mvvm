@@ -113,7 +113,7 @@ let ViewModel = function (params) {
     };
 };
 
-//初始化，传递
+//初始化
 let vm = new ViewModel({
     data: {
         count: 0
@@ -121,7 +121,7 @@ let vm = new ViewModel({
     methods: {
         //javascript计算边界提示
         boundaryTips: function (data) {
-            (data >= Number.MAX_SAFE_INTEGER || data <= Number.MIN_SAFE_INTEGER) && alert('未处理大数值计算进度丢失问题，计算值会不准确！');
+            (data >= Number.MAX_SAFE_INTEGER || data <= Number.MIN_SAFE_INTEGER) && alert('未处理大数值计算精度丢失问题，计算值会不准确！');
         },
 
         add: function () {
