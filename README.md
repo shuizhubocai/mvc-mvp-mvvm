@@ -1,4 +1,4 @@
-# 简单实现了mvc，mvp，mvvm
+# 简单实现了mvc，mvp，mvvm，效果图如下
 
 - ![mvc](https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvc-preview.gif)
 
@@ -6,14 +6,15 @@
 
 - ![mvvm](https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvvm-preview.gif)  
 
-# 扫码查看例子入口
-[![demo](https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/code.png)](https://shuizhubocai.github.io/mvc-mvp-mvvm/index.html)  
-
+# 例子预览
 点击链接直接跳转查看
 - [例子列表](https://shuizhubocai.github.io/mvc-mvp-mvvm/index.html)
 - [mvc](https://shuizhubocai.github.io/mvc-mvp-mvvm/mvc/mvc.html)
 - [mvp](https://shuizhubocai.github.io/mvc-mvp-mvvm/mvp/mvp.html)
 - [mvvm](https://shuizhubocai.github.io/mvc-mvp-mvvm/mvvm/mvvm.html)
+
+# 扫码查看例子入口
+  <a href="https://shuizhubocai.github.io/mvc-mvp-mvvm/index.html"><img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/code.png" width="260" alt="mvc"/></a>
 
 # mvc图示
   <a href="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvc.png"><img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvc.png" width="600" alt="mvc"/></a>
