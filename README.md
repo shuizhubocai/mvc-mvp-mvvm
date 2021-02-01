@@ -1,10 +1,15 @@
 # 简单实现了mvc，mvp，mvvm，效果图如下
 
-- ![mvc](https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvc-preview.gif)
+<img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvc-preview.gif" alt="mvc"/>
 
-- ![mvp](https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvp-preview.gif)
+---
 
-- ![mvvm](https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvvm-preview.gif)  
+<img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvp-preview.gif" alt="mvp"/>
+
+---
+
+<img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvvm-preview.gif" alt="mvvm"/>
+
 
 # 例子预览
 点击链接直接跳转查看
