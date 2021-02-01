@@ -90,7 +90,7 @@ let ViewModel = function (params) {
     this.observers = function (obj, key, val) {
         let _this = this;
         Object.defineProperty(obj, key, {
-            configurable: true, //不可配置
+            configurable: false, //不可配置
             enumerable: true,  //可枚举
             get: function () { //获取
                 return val;
