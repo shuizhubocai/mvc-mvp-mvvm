@@ -1,14 +1,14 @@
 # 简单实现了mvc，mvp，mvvm，效果图如下
 
-<img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvc-preview.gif" alt="mvc"/>
+<a href="https://shuizhubocai.github.io/mvc-mvp-mvvm/mvc/mvc.html"><img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvc-preview.gif" alt="mvc"/></a>
 
 ---
 
-<img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvp-preview.gif" alt="mvp"/>
+<a href="https://shuizhubocai.github.io/mvc-mvp-mvvm/mvp/mvp.html"><img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvp-preview.gif" alt="mvp"/></a>
 
 ---
 
-<img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvvm-preview.gif" alt="mvvm"/>
+<a href="https://shuizhubocai.github.io/mvc-mvp-mvvm/mvvm/mvvm.html"><img src="https://shuizhubocai.github.io/mvc-mvp-mvvm/assets/mvvm-preview.gif" alt="mvvm"/></a>
 
 
 # 例子预览
